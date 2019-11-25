@@ -1,24 +1,10 @@
-# README
+# 40's N Fights Podcast
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+40's N Fights Version 1.0
+Contributors: Oliver Thayer
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Features coming soon:
+* Video library of all episodes
+* Articles section
+* Community forum
+* Storefront for merchandise
